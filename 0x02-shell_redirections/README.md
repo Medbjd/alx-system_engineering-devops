@@ -23,3 +23,4 @@ __15. Count that word:__\nDisplay the number of lines that contain the pattern �
 __16. What's next:__\nDisplay lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 __17. I hate bins:__\nDisplay all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 __18. Letters only please:__\nDisplay all lines of the file /etc/ssh/sshd_config starting with a letter.
+__19. A to Z:__\nReplace all characters A and c from input to Z and e respectively.
