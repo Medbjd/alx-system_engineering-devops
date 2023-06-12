@@ -7,3 +7,4 @@ Display the content of the /etc/passwd file
 __3.What about 2:__ 
 Display the content of /etc/passwd and /etc/hosts
 __4.Last lines of a file:__Display the last 10 lines of /etc/passwd
+__5. I'd prefer the first ones actually:__Display the first 10 lines of /etc/passwd
