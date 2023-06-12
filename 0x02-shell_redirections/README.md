@@ -17,3 +17,4 @@ __9.Duplicate last line:__\nWrite a script that duplicates the last line of the 
 __10. No more javascript:__\nscript that deletes all the regular files (not the directories) with a .js
 __11. Don't just count your directories, make your directories count:__\nCounts the number of directories and sub-directories in the current directory
 __12. What’s new:__\nCreate a script that displays the 10 newest files in the current directory.
+__13. Being unique is better than being perfect:__\na script that takes a list of words as input and prints only words that appear exactly once.
