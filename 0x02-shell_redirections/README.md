@@ -4,3 +4,4 @@ __0. Hello World__\nscript that prints Hello, World, followed by a new line to t
 __2. Let's display a file__
 Display the content of the /etc/passwd file
 \n__3.What about 2:__ Display the content of /etc/passwd and /etc/hosts
+__\n3.What about 2:__ Display the content of /etc/passwd and /etc/hosts
