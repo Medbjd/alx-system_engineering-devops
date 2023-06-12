@@ -25,3 +25,4 @@ __17. I hate bins:__\nDisplay all the lines in the file /etc/passwd that do not 
 __18. Letters only please:__\nDisplay all lines of the file /etc/ssh/sshd_config starting with a letter.
 __19. A to Z:__\nReplace all characters A and c from input to Z and e respectively.
 __20. Without C, you would live in hiago:__\nCreate a script that removes all letters c and C from input.
+__21. esreveR:__\nWrite a script that reverse its input.
