@@ -10,3 +10,5 @@ __4.Last lines of a file:__Display the last 10 lines of /etc/passwd
 __5. I'd prefer the first ones actually:__Display the first 10 lines of /etc/passwd
 __6.Line2__
 Write a script that displays the third line of the file iacta
+__7. It is a good file that cuts iron without making a noise:__
+Write a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
