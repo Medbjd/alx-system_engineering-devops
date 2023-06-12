@@ -20,3 +20,4 @@ __12. What’s new:__\nCreate a script that displays the 10 newest files in the 
 __13. Being unique is better than being perfect:__\na script that takes a list of words as input and prints only words that appear exactly once.
 __14. It must be in that file:__\nDisplay lines containing the pattern “root” from the file /etc/passwd.
 __15. Count that word:__\nDisplay the number of lines that contain the pattern “bin” in the file /etc/passwd.
+__16. What's next:__\nDisplay lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
