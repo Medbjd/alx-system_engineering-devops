@@ -21,3 +21,4 @@ __13. Being unique is better than being perfect:__\na script that takes a list o
 __14. It must be in that file:__\nDisplay lines containing the pattern “root” from the file /etc/passwd.
 __15. Count that word:__\nDisplay the number of lines that contain the pattern “bin” in the file /etc/passwd.
 __16. What's next:__\nDisplay lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+__17. I hate bins:__\nDisplay all the lines in the file /etc/passwd that do not contain the pattern “bin”.
